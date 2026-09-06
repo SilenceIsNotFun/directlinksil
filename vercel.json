@@ -1,0 +1,10 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://discord.gg/YOUR_INVITE_CODE",
+      "permanent": false
+    }
+  ]
+}
